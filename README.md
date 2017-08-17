@@ -20,6 +20,9 @@ so at the final stage you will get a finall updated data for your long fields.
 
 
 STEP 1 :-
+- Drag Yellow box framework in downloaded project "MVVM.framework" in to your existing Project.
+- Now go on Project->General->Embedded Bianies and hit "+" and add your  "MVVM.framework" here and clean your project.
+- it will automatically reflect in   Project->General->Linked Frameworks and Libraries also.
 - See in Viewcontroller class of Ex Project .
 - where we wrote " import MVVM " at top.
 
@@ -175,6 +178,8 @@ class ViewController: UIViewController,ObserverFactoryDelegate {
     
     
 }
+
+That's it After this you dont need to taking care of your UI Control values on your final form " Submit Button"  of Viewcontroller.
 
 
 
