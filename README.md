@@ -181,6 +181,6 @@ class ViewController: UIViewController,ObserverFactoryDelegate {
 
 That's it After this you dont need to taking care of your UI Control values on your final form " Submit Button"  of Viewcontroller.
 
-
+http://g.recordit.co/IGSnIZlwHc.gif
 
 
