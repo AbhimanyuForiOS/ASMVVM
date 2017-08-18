@@ -33,7 +33,7 @@ STEP 2 :- Make A Model Class "Model.swift"
 
     
     import Foundation
-    inport UIKit
+    import UIKit
     class Model : NSObject {
                 var switchVal: Bool = false
                 var firstName: String!
