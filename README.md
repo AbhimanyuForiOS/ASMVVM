@@ -76,11 +76,9 @@ STEP 2 :- Make A Model Class "Model.swift"
 
 
 STEP 3 :- In your Viewcontroller class 
-    import UIKit 
-    import MVVM
-    class ViewController: UIViewController,ObserverFactoryDelegate {
+   
     
-    import UIKit 
+                       import UIKit 
                        import MVVM
                        class ViewController: UIViewController,ObserverFactoryDelegate {
                     //Model which you will get at final point with all updated values 
